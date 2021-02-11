@@ -1,4 +1,3 @@
-#################
 Update on 2/11/2021
 For the revision of the portfolio assignment, I created another GitHub to showcase my new front page at: [Click here](https://tonyrpark.github.io/Tony-Main-Portfolio/) 
 # 02-bootstrap-css-tonypark
